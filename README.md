@@ -1,8 +1,4 @@
 # 🚀 Task-03: Text Generation with Markov Chains
-
-**Prodigy Infotech Internship — Generative AI**  
-📅 **Batch**: 15 June – 15 July 2025
-
 ---
 
 ## 📌 Project Overview
